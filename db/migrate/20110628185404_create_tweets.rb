@@ -5,7 +5,7 @@ class CreateTweets < ActiveRecord::Migration
       t.string :book
       t.datetime :time
       t.string :author
-      t.int :rating
+      t.integer :rating
 
       t.timestamps
     end
