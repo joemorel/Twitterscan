@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  username: MyString
+  book: MyString
+  time: 2011-06-28 14:54:04
+  author: MyString
+  rating: 
+
+two:
+  username: MyString
+  book: MyString
+  time: 2011-06-28 14:54:04
+  author: MyString
+  rating: 
